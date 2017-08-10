@@ -1,0 +1,17 @@
+{
+  "name": "TestProject",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/jvm"
+    }
+  ]
+}
